@@ -1,7 +1,7 @@
 # VibrantVerse: Bharat Bahubhashik Setu 🇮🇳
 ### English → Indian-language translation, transliteration, speech and lip-synced video
 
-[![languages](https://img.shields.io/badge/languages-8%20Indian-orange) ![python](https://img.shields.io/badge/python-3.10%2B-blue)
+![languages](https://img.shields.io/badge/languages-8%20Indian-orange) ![python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 > **Recognition:** sponsored by the **Karnataka State Council for Science and Technology (KSCST)** under the 47th Series of
 > the Student Project Programme 2023-24 (proposal ref. 47S_BE_1411). **Best Paper/Poster Presentation award** at the National
