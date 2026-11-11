@@ -1,4 +1,4 @@
-# VibrantVerse: Bharat Bahubhashik Setu 🇮🇳
+# VibrantVerse: Bharat Bahubhashik Setu
 ### English → Indian-language translation, transliteration, speech and lip-synced video
 
 ![languages](https://img.shields.io/badge/languages-8%20Indian-orange) ![python](https://img.shields.io/badge/python-3.10%2B-blue)
