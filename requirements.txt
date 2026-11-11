@@ -1,0 +1,4 @@
+# Core (GPU-free parts: document handling, subtitles, CLI)
+python-docx
+pydub
+# Model stack (see docs/SETUP.md): torch, fairseq + indicTrans, ai4bharat-transliteration, TTS (Indic-TTS), Wav2Lip deps

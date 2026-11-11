@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+out/
+checkpoints/
+en-indic/
+Wav2Lip/
+indicTrans/
+Indic-TTS/
+*.wav
+.ipynb_checkpoints/
